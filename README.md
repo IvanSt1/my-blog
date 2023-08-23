@@ -1,7 +1,10 @@
 
 # Чтобы запустить приложение необходимо:
 
-В директории my-blog запускается Front по команде npm start в дирректории my-blog/backend запускается Back по команде $env:CGO_ENABLED="1"; go run main.go
+В директории my-blog запускается Front по команде 
+###npm start 
+В дирректории my-blog/backend запускается Back по команде 
+###$env:CGO_ENABLED="1"; go run main.go
 
 ## Для Front необходимо
 
